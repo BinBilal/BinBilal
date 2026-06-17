@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Omar Bilal Nasir</h1>
+<h3 align="center">A passionate Enterprise Software developer from Somalia</h3>
 
+- 📫 How to reach me **binbilal2016@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omarr_yarre?igsh=mwn6z2vsyjrib3vtng==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-bilal-nasir-bilal-2a2a793a4?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2JC4zokKz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binbilal2016@gmail.com) 
 
